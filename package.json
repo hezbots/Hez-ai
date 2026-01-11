@@ -1,0 +1,16 @@
+{
+  "name": "ai-website",
+  "version": "1.0.0",
+  "description": "Simple AI website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "openai": "^6.16.0",
+    "uuid": "^13.0.0"
+  }
+}
